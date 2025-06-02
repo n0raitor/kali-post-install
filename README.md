@@ -2,7 +2,7 @@
 After installing Kali Linux, I use this guide to set up my Laptop
 
 ## Preparation
-Download the Archive-Keyring to fix APT issues (if happens on `apt update`): 
+Download the Archive-Keyring to fix APT issues (if error happens on `sudo apt update`): 
 http://kali.download/kali/pool/main/k/kali-archive-keyring/kali-archive-keyring_2025.1_all.deb
 
 Install them: `sudo dpkg -i kali-archive-keyring_2025.1_all.deb`
