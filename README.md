@@ -1,5 +1,5 @@
 # kali-post-install
-After installing Kali Linux, I use this guide to set up my Laptop
+After installing Kali Linux, I use this guide to set up my Laptop (Casual and Forensics/DFIR/Malware Analysis)
 
 ## Preparation
 Download the Archive-Keyring to fix APT issues (if error happens on `sudo apt update`): 
