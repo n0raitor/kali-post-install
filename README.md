@@ -16,7 +16,7 @@ sudo apt autoremove
 
 Install Casual Apps and Enable TLP
 ```bash
-sudo apt install libreoffice libreoffice-help-de vlc gimp thunderbird file-roller evince gnome-calculator gnome-disk-utility baobab git gedit tlp tlp-rdw powertop code-oss
+sudo apt install libreoffice libreoffice-help-de vlc gimp thunderbird file-roller evince gnome-calculator gnome-disk-utility baobab git gedit tlp tlp-rdw powertop code-oss obsidian
 sudo systemctl enable tlp --now  # Enable TLP
 sudo apt install kali-tools-forensics kali-tools-detect kali-tools-reverse-engineering kali-tools-social-engineering kali-tools-top10 kali-tools-windows-resources kali-tools-recover kali-tools-reporting kali-tools-protect kali-tools-information-gathering kali-community-wallpapers kali-legacy-wallpapers 
 ```
