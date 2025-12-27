@@ -54,3 +54,6 @@ git clone https://gitlab.com/kalilinux/build-scripts/live-build-config.git
 cd live-build-config
 ./build.sh --verbose
 ```
+
+## Other Steps (inspiration)
+https://github.com/n0raitor/Ubuntu-Install-Repo
