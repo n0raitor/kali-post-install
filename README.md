@@ -44,7 +44,7 @@ sudo apt install -y kali-tools-forensics kali-tools-detect kali-tools-reverse-en
 ```bash
 sudo apt install -y kali-linux-labs
 sudo apt install -y libreoffice libreoffice-help-de vlc gimp thunderbird file-roller evince gnome-calculator gnome-disk-utility baobab git gedit  code-oss obsidian
-sudo apt install -y kali-community-wallpapers kali-legacy-wallpapers kali-linux-screensaver kali-untercover kali-wallpapers-all kali-wallpapers-community
+sudo apt install -y kali-community-wallpapers kali-legacy-wallpapers kali-screensaver kali-undercover  kali-wallpapers-all kali-wallpapers-community
 ```
 
 ## Live Build Setup
